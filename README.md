@@ -4,6 +4,7 @@ cd ..
 git clone https://github.com/ProPythonDev/Forum-Project.git
 <br />
 ```
+Running commands
 python manage.py makemigrations
 python manage.py migrate
 python manage.py createsuperuser  
